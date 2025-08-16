@@ -8,6 +8,6 @@
 
 ---
 
-I am a **Machine Learning Engineer with over 5 years of experience**, primarily focused on developing complex, multifaceted end-to-end ML and DL systems for business applications. To deliver effective and timely solutions, I consistently stay up to date on the latest industry standards and technologies in the field.
+I am a **Machine Learning Engineer with over 3.5 years of experience**, primarily focused on developing complex, multifaceted end-to-end ML and DL systems for business applications. To deliver effective and timely solutions, I consistently stay up to date on the latest industry standards and technologies in the field.
 
 I am also involved in **sponsoring and organizing ML competitions** since 2025 and holding the title of a 
